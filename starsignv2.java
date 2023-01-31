@@ -1,5 +1,5 @@
 
-//version 2 uses a large elif statement and uses a gui to get the inputs and to output
+//version 2 uses a large elif statement and uses GUIs to get the inputs and to output
 
 import javax.swing.JOptionPane;
 public class starsignv2 {
